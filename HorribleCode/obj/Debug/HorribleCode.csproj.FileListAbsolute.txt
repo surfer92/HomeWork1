@@ -1,5 +1,0 @@
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.exe.config
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.pdb
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\HorribleCode\obj\Debug\HorribleCode.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\HorribleCode\obj\Debug\HorribleCode.pdb

@@ -1,6 +1,0 @@
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\bin\Debug\AfterTenYears.exe.config
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\bin\Debug\AfterTenYears.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\bin\Debug\AfterTenYears.pdb
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\obj\Debug\AfterTenYears.csprojResolveAssemblyReference.cache
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\obj\Debug\AfterTenYears.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\AfterTenYears\obj\Debug\AfterTenYears.pdb

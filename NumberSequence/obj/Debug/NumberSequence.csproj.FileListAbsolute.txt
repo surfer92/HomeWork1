@@ -1,6 +1,0 @@
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\bin\Debug\NumberSequence.exe.config
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\bin\Debug\NumberSequence.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\bin\Debug\NumberSequence.pdb
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\obj\Debug\NumberSequence.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence\obj\Debug\NumberSequence.pdb

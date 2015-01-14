@@ -1,5 +1,0 @@
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintMyName\bin\Debug\PrintMyName.exe.config
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintMyName\bin\Debug\PrintMyName.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintMyName\bin\Debug\PrintMyName.pdb
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintMyName\obj\Debug\PrintMyName.exe
-c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintMyName\obj\Debug\PrintMyName.pdb
