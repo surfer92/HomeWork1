@@ -1,0 +1,5 @@
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence2\bin\Debug\NumberSequence2.exe.config
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence2\bin\Debug\NumberSequence2.exe
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence2\bin\Debug\NumberSequence2.pdb
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence2\obj\Debug\NumberSequence2.exe
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\NumberSequence2\obj\Debug\NumberSequence2.pdb

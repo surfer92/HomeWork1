@@ -1,0 +1,5 @@
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintName\bin\Debug\PrintName.exe.config
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintName\bin\Debug\PrintName.exe
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintName\bin\Debug\PrintName.pdb
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintName\obj\Debug\PrintName.exe
+c:\users\dada\documents\visual studio 2013\Projects\Introduction to Programming\PrintName\obj\Debug\PrintName.pdb
